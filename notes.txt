@@ -1,0 +1,9 @@
+//textarea[@name='q']
+
+DOM index starts from [1]
+
+for eg. (//textarea)[1]
+
+try navigation stuff
+
+facebook create new account button: open-registration-form-button
